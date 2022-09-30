@@ -23,4 +23,19 @@
 3. MultiMarkdown
 4. Pandoc
 
+#### CommonMark
+- CommonMark는 제각각으로 구현된 마크다운의 표준 문법을 정의하는 프로젝트이다.
+- CommonMark 에서 정의한 스펙에 따라 이를 기반으로 많은 마크다운 프로젝트가 생겨났음.
+  
+#### GFM (GitHub Flavored Markdown)
+- GFM 은 GitHub 에서 기존 마크다운에 여러 기능을 추가하여 커스터마이징한 버전이다.
+- GFM 은 Fenced Codeblocks, Syntax Highlighting, Tables, URL AutoLinking, To-dos, Strikethrough 등의 추가 기능을 지원한다.
+- Github 내에서 README.md 파일 같은 .md, .markdown 확장자를 가진 파일과 comments 를 달 때도 사용 가능하다.
+
+#### MultiMarkdown
+- MultiMarkdown 마크다운을 확장한 첫 프로젝트로, 기존 마크다운에 여러 기능을 추가한 버전이다.
+
+#### Pandoc
+- Pandoc 은 마크다운 텍스트를 다양한 포맷의 파일로 변환하는 기능을 강화한 마크다운이다.
+
 참고 : [마크다운의 종류와 선택](https://futurecreator.github.io/2018/06/14/variety-of-markdown-and-Implementations/)
