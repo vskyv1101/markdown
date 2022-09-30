@@ -15,7 +15,7 @@
 2. 모든 HTML 마크업을 대신 할 수 없다. <p>
 
 
-참고 : [Github](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+출처 및 참고 : [Github](https://gist.github.com/ihoneymon/652be052a0727ad59601)
   
 #### 마크다운의 종류
 1. CommonMark
@@ -38,4 +38,4 @@
 #### Pandoc
 - Pandoc 은 마크다운 텍스트를 다양한 포맷의 파일로 변환하는 기능을 강화한 마크다운이다.
 
-참고 : [마크다운의 종류와 선택](https://futurecreator.github.io/2018/06/14/variety-of-markdown-and-Implementations/)
+출처 및 참고 : [마크다운의 종류와 선택](https://futurecreator.github.io/2018/06/14/variety-of-markdown-and-Implementations/)
