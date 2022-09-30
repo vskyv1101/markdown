@@ -16,3 +16,11 @@
 
 
 참고 : [Github](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+  
+#### 마크다운의 종류
+1. CommonMark
+2. GitHub Flavored Markdown
+3. MultiMarkdown
+4. Pandoc
+
+참고 : [마크다운의 종류와 선택](https://futurecreator.github.io/2018/06/14/variety-of-markdown-and-Implementations/)
