@@ -1,14 +1,14 @@
 # 마크 다운의 개요와 종류
 #### 마크 다운이란?
-2004년 존그루버에 의해 만들어졌음. 쉽게 읽고 쓸 수 있으며 HTML로도 변환이 가능하다.<p>
-특수기호와 문자를 이용한 매우 간단한 구조의 문법을 사용한다.<p>
+2004년 존그루버에 의해 만들어졌음. **쉽게 읽고 쓸 수 있으며 HTML로도 변환이 가능하다.**<p>
+특수기호와 문자를 이용한 **매우 간단한 구조의 문법을 사용**한다.<p>
 웹에서도 빠르게 컨텐츠를 작성하고 직관적으로 인식할 수 있다.<p>
   
 #### 마크 다운과 HTML과의 차이
-HTML은 Markup(마크업)언어를 사용한다. 마크 업과 마크다운은 다른 언어이며 마크다운은 일반 텍스트 문서의 양식을 편집하는 문법이고, 마크업 언어는 태그 등을 이용하여 문서나 데이터의 구조를 명기하는 언어이다.<p>
+HTML은 **Markup(마크업)언어를 사용한다.** 마크 업과 마크다운은 다른 언어이며 **마크다운은 일반 텍스트 문서의 양식을 편집하는 문법**이고, 마크업 언어는 태그 등을 이용하여 문서나 데이터의 구조를 명기하는 언어이다.<p>
 HTML→웹에 표현이 가능하지만, 그렇지 않더라고 훨씬 단순한 Markdown 을 사용할 줄 안다면<p>
 HTML→HTML로의 변환→웹에 표현 이 충분히 가능하다.<p>
-출처 및 참고 : [마크다운 개요](http://leechoong.com/posts/2017/markdown_intro/)
+**출처 및 참고** : [마크다운 개요](http://leechoong.com/posts/2017/markdown_intro/)
 
 #### 마크다운의 장점은?
 1. 간결하게 작성할 수 있다.<p>
@@ -20,27 +20,27 @@ HTML→HTML로의 변환→웹에 표현 이 충분히 가능하다.<p>
 2. 모든 HTML 마크업을 대신 할 수 없다. <p>
 
 
-출처 및 참고 : [Github](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+**출처 및 참고** : [Github](https://gist.github.com/ihoneymon/652be052a0727ad59601)
   
 #### 마크다운의 종류
-1. CommonMark
-2. GitHub Flavored Markdown
-3. MultiMarkdown
-4. Pandoc
+1. **CommonMark**
+2. **GitHub Flavored Markdown**
+3. **MultiMarkdown**
+4. **Pandoc**
 
 #### CommonMark
-- CommonMark는 제각각으로 구현된 마크다운의 표준 문법을 정의하는 프로젝트이다.
+- CommonMark는 제각각으로 구현된 마크다운의 **표준 문법을 정의하는 프로젝트이다.**
 - CommonMark 에서 정의한 스펙에 따라 이를 기반으로 많은 마크다운 프로젝트가 생겨났음.
   
 #### GFM (GitHub Flavored Markdown)
-- GFM 은 GitHub 에서 기존 마크다운에 여러 기능을 추가하여 커스터마이징한 버전이다.
+- GFM 은 GitHub 에서 기존 마크다운에 **여러 기능을 추가하여 커스터마이징한 버전이다.**
 - GFM 은 Fenced Codeblocks, Syntax Highlighting, Tables, URL AutoLinking, To-dos, Strikethrough 등의 추가 기능을 지원한다.
 - Github 내에서 README.md 파일 같은 .md, .markdown 확장자를 가진 파일과 comments 를 달 때도 사용 가능하다.
 
 #### MultiMarkdown
-- MultiMarkdown 마크다운을 확장한 첫 프로젝트로, 기존 마크다운에 여러 기능을 추가한 버전이다.
+- MultiMarkdown 마크다운을 확장한 첫 프로젝트로, **기존 마크다운에 여러 기능을 추가한 버전이다.**
 
 #### Pandoc
-- Pandoc 은 마크다운 텍스트를 다양한 포맷의 파일로 변환하는 기능을 강화한 마크다운이다.
+- Pandoc 은 마크다운 텍스트를 **다양한 포맷의 파일로 변환하는 기능을 강화한 마크다운이다.**
 
-출처 및 참고 : [마크다운의 종류와 선택](https://futurecreator.github.io/2018/06/14/variety-of-markdown-and-Implementations/)
+**출처 및 참고** : [마크다운의 종류와 선택](https://futurecreator.github.io/2018/06/14/variety-of-markdown-and-Implementations/)
