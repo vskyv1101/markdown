@@ -1,4 +1,4 @@
-## Markdown 이란? 
+## 📎 Markdown이란? 
 ![image](https://user-images.githubusercontent.com/105197487/202189318-7833c9de-8259-4098-99a2-8ad5f698a406.png)<p>
 마크다운(Markdown)의 창시자 John Gruber 은 마크다운을 text-to-HTML conversion tool for web writers, 즉 텍스트를 HTML로 변환해 주는 도구라고 정의하고 있다.<p>
 easy-to-read (읽기 쉽고) easy-to-write (쓰기 쉬운) 간단한 문법의 텍스트 형식으로 글을 작성하면 HTML의 구조로 변환해 주기 때문에 HTML의 문법을 배우지 않은 사람들도 쉽게 사용할 수 있다.<p>
@@ -37,8 +37,65 @@ HTML→HTML로의 변환→웹에 표현 이 충분히 가능하다.<p>
 * 인공지능소프트웨어
 ```
 #### 강조
-기울임<br>
+1. 기울임<br>
 * 혹은 _으로 감싸준다.<br>
 ```bash
-동양미래대학교 _인공지능소프트웨어학과 22학번_ 입니다.
+동양미래대학교 *인공지능소프트웨어학과 22학번* 입니다.
 ```
+2. 주석<br>
+주석은 >기호를 이용하여 작성할 수 있다.<p>
+3. 링크 
+```bash
+[Github](http://github.com/vskyv1101)
+ ```
+4. 이미지 삽입
+ ```bash
+![이미지이름](이미지 경로)
+  ```
+5. 표
+  ```bash
+| 헤더1    |  헤더 2  |   헤더 3  |
+|:---|:---:|---:|
+| 셀 1    | 셀 2    |   셀 3    |
+| 셀 4    | 셀 5    |   셀 6    |
+| 셀 7    | 셀 8    |   셀 9    |
+| 셀 10   | 셀 11   |   셀 12   |
+   ```
+ ```bash
+헤더1	 헤더 2	 헤더 3
+셀 1	  셀 2	  셀 3
+셀 4	  셀 5	  셀 6
+셀 7	  셀 8	  셀 9
+셀 10	  셀 11	  셀 12
+   ```
+6. 코드삽입
+ ```bash
+ int main(void) {
+ printf("Hello, world!\n");
+ return 0;
+}
+ ```
+ ```bash
+ <?
+  echo("Hello, world!"); // php
+?>
+  ```
+  ```bash
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Insert Code</title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+  </body>
+</html>
+ ```
+ 
+ 
+ 
+ 
+ 
+ 
+[참고] : (http://leechoong.com/posts/2017/markdown_intro/)
